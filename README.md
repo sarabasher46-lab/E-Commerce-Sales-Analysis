@@ -69,9 +69,7 @@ The dashboard allows users to explore the data and identify:
 
 ## 🖥️ Dashboard Preview
 
-> Dashboard screenshot will be added here.
-
-`Screenshots/Dashboard-Overview.png`
+![Dashboard Overview](Screenshots/Capture.PNG)
 
 ---
 
@@ -84,7 +82,7 @@ E-Commerce-Sales-Analysis/
 │   └── E-Commerce-Sales-Analysis.pbix
 │
 ├── Screenshots/
-│   └── Dashboard-Overview.png
+│   └── Capture.PNG
 │
 └── README.md
 ```
